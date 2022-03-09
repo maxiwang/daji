@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/maxiwang/daji.github.io/TychetechSports.ipa</string>
+		<string>https://maxiwang.github.io/TychetechSports.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/maxiwang/daji.github.io/images/icon57x57.png</string>
+		<string>https://maxiwang.github.io/images/icon57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/maxiwang/daji.github.io/images/icon512x512.png</string>
+		<string>https://maxiwang.github.io/images/icon512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
